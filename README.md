@@ -16,5 +16,5 @@ I build things that make my life either easier, or much harder. I also like to d
 - Tinkering with self-hosted LLMs
 - Working on my backend development skills.
 
-I always like to abandon random projects also...
 I don't really make public repos but hey, I'll make some soon I guess
+I always like to abandon random projects also...
